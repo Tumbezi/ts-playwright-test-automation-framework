@@ -1,4 +1,4 @@
-# UI Test Automation Suite - Saucedemo
+# UI Test Automation Suite - Saucedemo and Browser Game 2048
 
 This repository contains an automated UI test suite for [Saucedemo](https://www.saucedemo.com/) built with **Playwright** and **TypeScript** using the **Page Object Model (POM)** design pattern.
 
