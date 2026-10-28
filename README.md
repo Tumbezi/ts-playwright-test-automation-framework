@@ -32,3 +32,11 @@ Show HTML Test Report:
 ```
 npx playwright show-report
 ```
+You can also run the tests specifically for one browser. With following command:
+```
+npx playwright test --project=chromium --reporter=list
+```
+Outcome should look something like this in the terminal, when the tests have passed succesfully.
+<img width="990" height="172" alt="image" src="https://github.com/user-attachments/assets/456cece7-391a-4127-8dc1-e3c803d2da99" />
+
+
